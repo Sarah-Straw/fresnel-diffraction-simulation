@@ -2,7 +2,7 @@
 
 This project models Fresnel (near field) diffraction patterns of light passing through various apertures using two numerical integration techniques: **Gaussian quadrature** and **Monte Carlo integration**.
 
-Developed as part of a physics and numerical methods course, the code simulates diffraction from **rectangular** and **circular** apertures, and visualizes 1D and 2D intensity distributions on the screen. This project blends **scientific computing**, **numerical analysis**, and **data visualization** in Python.
+Developed as part of a physics and computing course, the code simulates diffraction from **rectangular** and **circular** apertures, and visualizes 1D and 2D intensity distributions on the screen. This project blends **scientific computing**, **numerical analysis**, and **data visualization** in Python.
 
 ## Project Functions
 
@@ -22,13 +22,14 @@ Developed as part of a physics and numerical methods course, the code simulates 
 ## Report
 
 A formal report detailing the theory, implementation, results, and conclusions is included here:  
- [`Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf`](./Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf)
+ [`Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf`](.images/Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf)
 
 ## Plot Outputs
 
 <p align="center">
-  <img src="images/fresnel_1d.png" width="450"/>
-  <img src="images/mc_diffraction.png" width="450"/>
+  <img src="images/part_1_error_plot_far_field.png" width="450"/>
+  <img src="images/part_2_square.png" width="450"/>
+  <img src="images/part_4_plot_n_3000.png" width="450"/>
 </p>
 
 
