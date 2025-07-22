@@ -22,7 +22,7 @@ Developed as part of a physics and numerical methods course, the code simulates 
 ## Report
 
 A formal report detailing the theory, implementation, results, and conclusions is included here:  
- [`Fresnel_diffraction_from_an_aperture_report.pdf`](./Fresnel_diffraction_from_an_aperture_report.pdf)
+ [`Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf`](./Sarah_Straw_Fresnel_diffraction_from_an_aperture_report.pdf)
 
 ## Plot Outputs
 
